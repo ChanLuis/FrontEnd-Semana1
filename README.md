@@ -9,6 +9,10 @@ Caso abogadobot
 
 https://github.com/ChanLuis/FrontEnd-Semana1/blob/3597f2e0d3652bd975cf3a5be7d5eb852c841bbc/1.-Reqierimientos%20(1).doc
 
+# Buyer Persona
+
+
+
 # Wireframe UX
 
 
