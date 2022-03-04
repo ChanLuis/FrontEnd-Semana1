@@ -15,6 +15,8 @@ https://github.com/ChanLuis/FrontEnd-Semana1/blob/7529ecd93bf64255dfda7f32e19fc8
 
 # Publico objetivo
 
+https://github.com/ChanLuis/FrontEnd-Semana1/blob/940d4d49474253761624b997f08ffbb86de05cf2/Publico%20Objetivo.docx
+
 # Wireframe UX
 
 
