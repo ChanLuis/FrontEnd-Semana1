@@ -11,7 +11,7 @@ https://github.com/ChanLuis/FrontEnd-Semana1/blob/3597f2e0d3652bd975cf3a5be7d5eb
 
 # Buyer Persona
 
-![BU](https://github.com/ChanLuis/FrontEnd-Semana1/blob/7529ecd93bf64255dfda7f32e19fc8d208a33c90/Buyer%20Persona.pdf)
+https://github.com/ChanLuis/FrontEnd-Semana1/blob/7529ecd93bf64255dfda7f32e19fc8d208a33c90/Buyer%20Persona.pdf
 
 # Wireframe UX
 
