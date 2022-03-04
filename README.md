@@ -5,6 +5,10 @@ Entregables de la semana 1 de Front-End LaunchX
 
 Caso abogadobot
 
+# Toma de requerimientos
+
+
+
 # Wireframe UX
 
 
