@@ -5,4 +5,4 @@ Entregables de la semana 1 de Front-End LaunchX
 
 Caso abogadobot
 
-https://github.com/ChanLuis/FrontEnd-Semana1/blob/main/Wireframe%20UX.jpg
+# https://github.com/ChanLuis/FrontEnd-Semana1/blob/main/Wireframe%20UX.jpg
